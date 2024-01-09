@@ -42,7 +42,7 @@ This web application leverages the power of JSON Web Tokens (JWT) for authentica
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/freakbeast14/node_auth_JWT`
+1. Clone the repository: `git clone https://github.com/freakbeast14/JWTAuthentication.git`
 
 2. Install dependencies: `npm install`
 
